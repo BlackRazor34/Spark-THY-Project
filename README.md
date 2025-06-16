@@ -1,6 +1,9 @@
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/SJBSG92/de5ec8c0350afc73802ad8a1b94c00ce05eb19de-full.jpg">
+  <img width="400" height="100" src="Pictures/turkish-airlines.png">
 </p>
+
+
+
 
 # Apache Spark ile Uçtan Uca Veri İşleme ve Analiz Pipeline'ı ✈️
 
@@ -19,6 +22,7 @@ Veri seti Türk Hava Yolları’nın Origin ve Destination bazında pazardaki to
 - DESTINATION : Uçuşun bittiği havalimanı bilgisidir.2 leg li uçuşlarda 2.leg in varış havalimanı bilgisidir.
 - PSGR_COUNT : Verilen kırılımdaki toplam yolcu sayısı bilgisidir.
 - 4 Sütun ve 1.7 Milyon veri içeren bir verisetidir.
+
 
 ---
 ## 🎯 Projenin Amacı
