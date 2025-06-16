@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/SJBSG92/de5ec8c0350afc73802ad8a1b94c00ce05eb19de-full.jpg">
+</p>
 
 # Apache Spark ile Uçtan Uca Veri İşleme ve Analiz Pipeline'ı ✈️
 
