@@ -71,6 +71,7 @@ Yaz sezonunda en çok yolcu taşınan ilk 5 kalkış noktası:
 | DEL    | 7705173      |
 | CDG    | 7244943      |
 
+
 <p align="left">
   <img width="400" height="400" src="Pictures/ETL_Operations.png">
 </p>
