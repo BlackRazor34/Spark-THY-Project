@@ -1,5 +1,5 @@
 
-# Apache Spark ile Uçtan Uca Veri İşleme ve Analiz Pijpeline'ı ✈️
+# Apache Spark ile Uçtan Uca Veri İşleme ve Analiz Pipeline'ı ✈️
 
 Bu proje, ham bir uçuş veri setinin (`thy_data.txt`) Apache Spark kullanılarak işlenmesi, analiz edilmesi ve sonuçların kalıcı olarak Hive ve PostgreSQL gibi veri platformlarına yazılması için geliştirilmiş bir veri mühendisliği projesidir.
 
