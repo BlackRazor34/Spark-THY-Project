@@ -2,9 +2,6 @@
   <img width="400" height="100" src="Pictures/turkish-airlines.png">
 </p>
 
-
-
-
 # Apache Spark ile Uçtan Uca Veri İşleme ve Analiz Pipeline'ı ✈️
 
 Bu proje, ham bir uçuş veri setinin (`thy_data.txt`) Apache Spark kullanılarak işlenmesi, analiz edilmesi ve sonuçların kalıcı olarak Hive ve PostgreSQL gibi veri platformlarına yazılması için geliştirilmiş bir veri mühendisliği projesidir.
@@ -73,3 +70,8 @@ Yaz sezonunda en çok yolcu taşınan ilk 5 kalkış noktası:
 | H8G    | 8432456      |
 | DEL    | 7705173      |
 | CDG    | 7244943      |
+
+<p align="center">
+  <img width="600" height="600" src="Pictures/ETL_Operations.png">
+</p>
+
